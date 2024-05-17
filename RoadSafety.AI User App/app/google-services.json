@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983749069778",
+    "project_id": "safety-14b53",
+    "storage_bucket": "safety-14b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983749069778:android:d9a24e284064fa28b1160b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCL_vFuXYkT0r0DEHF2-SsZeRrftoEocc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
